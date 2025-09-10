@@ -114,7 +114,7 @@ In addition, users who held the subscription owner role when the subscription wa
 If you have reservation-specific RBAC roles (reservation administrator, purchaser, contributor, or reader), purchased reservations, or were added as an owner to reservations, follow these steps to view and manage reservations in the Azure portal:
 
 1. Sign in to the Azure portal
-2. Select **Home** > **Reservations** to list reservations to which you have access
+2. Select **Home** > **Reservations** to list reservations to which you have access --> In Mandarin page (zh-cn), for "Home", it should be translated to "主页" instead of "家庭". please help to update all "Home" of zh-cn from "家庭" to "主页".
 
 > [!TIP]
 > If you can't see your reservations, ensure you're signed in with the account that has the appropriate permissions. For cross-tenant scenarios, make sure you're in the correct tenant context.
